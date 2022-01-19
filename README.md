@@ -7,6 +7,8 @@ I thought;
 > I know nothing about this, absolutely nothing - I better try it out!
 
 It is challenging, in the beginning I would not have survived without google, I googled EVERYTHING; 
->*What is a Terminal* 🙀 *How do I code*. 
+>*What is a Terminal* 🙀 *How do I code*❓*How may programming language are there*🤔 *Is Javascript impossible to learn*? 🤯etc.
 
-I truly believe I am the person at the program with the least background knowledge. I am 42 years old, older than many other students, some say that they did some programming in high school. When I was in highschool, we had one computer hall at the school, we used it 2 hours per week, mainly for typing. Now my son, who is five years old has his own computer for Kindergarten.. Different times, lovely times. It is pretty cool to be able to impress the kids with the things we create at the programme.
+I truly believe I am the person at the program with the least background knowledge. I am 42 years old, older than many other students, some say that they did some programming in high school. When I was in highschool, we had one computer hall at the school, we used it 2 hours per week, mainly for typing. Now my son, who is five years old has his own computer for Kindergarten.. Different times, lovely times. It is pretty cool to be able to impress the kids with the things we create at the programme.  
+  
+So, this Github account started for me to save versions of the work I am doing and to be able to share files and repositories. It seems to be a great place to be.
