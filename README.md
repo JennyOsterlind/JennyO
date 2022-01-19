@@ -6,7 +6,7 @@ I thought;
 
 > I know nothing about this, absolutely nothing - I better try it out!
 
-It is challenging, in the beginning I would not have survived without google, I googled EVERYTHING; 
+It is challenging, in the beginning I would not have survived without google, I googled __EVERYTHING__; 
 * What is a Terminal 🙀 
 * How do I code❓
 * How may programming languages are there🤔 
